@@ -12,6 +12,6 @@ and open the template in the editor.
          
     </head>
     <body>
-        <h1>Segunda Pruebaa</h1>
+       
     </body>
 </html>
